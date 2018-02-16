@@ -1,7 +1,9 @@
 # cmpe272-spring18
 
 
-## IoT idea: cheap ForgetMeNot LCD screen with face recognition. Basically a device hangs on your front door or garage. Whenever you are closeby the camera recognizes your face and yells at you don’t forget to bring the key.
+## IoT idea: Cheap ForgetMeNot LCD screen with face recognition
+
+Basically a device hangs on your front door or garage. Whenever you are closeby the camera recognizes your face and yells at you don’t forget to bring the key.
 
 Personally I have many times forgotten to bring keys/phone/wallet/trash bag/misc. Stuff when leaving home. And sometimes I have to drive all the way back to grab it.
 
